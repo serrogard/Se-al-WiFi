@@ -1,10 +1,13 @@
 # Comprobación de señalas WiFi y mas
 Contenido disponible [serrogard.github.io/Se-al-WiFi/](https://serrogard.github.io/Se-al-WiFi/)
-## índice
- 1. uno
- 2. tres
- 1. CUatro
+## Índice
+ 1. Uno
+ 2. Tres
+ 1. Cuatro
 * LISTA SIN ORDEN
-* DIOS
-* OJO
-  * DIOSEFCFFFF
+* LISTA SIN ORDEN
+* LISTA SIN ORDEN
+* LISTA SIN ORDEN
+[Ir al ejercicio 1](actividad1.md)
+
+>UN POTENCIAL INCREÍBLE 
