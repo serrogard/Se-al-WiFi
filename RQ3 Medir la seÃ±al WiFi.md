@@ -1,11 +1,11 @@
-MEDIR LA SEÑAL INLÁMBRICA CON PROGAMAS
+# MEDIR LA SEÑAL INLÁMBRICA CON PROGAMAS
 
 Vamos a usar dos programas distintos para realizar las comprobaciones, estos dos programas van a ser:
 
-1.  Wifi Analyzer
-2.  Acrylic WiFi Home
+1. Wifi Analyzer
+2. Acrylic WiFi Home
 
-Acrylic WiFi Home
+## Acrylic WiFi Home
 
 Con este programa gratuito podemos visualizar la información WiFi en tiempo real, identificar problemas de canal, revisar la cobertura y mejorar el funcionamiento de la red WiFi.
 
