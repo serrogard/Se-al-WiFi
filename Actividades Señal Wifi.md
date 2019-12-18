@@ -1,7 +1,7 @@
 # Practica 1: Señal WiFi
 ### Nombre y apellidos:
 
-Realiza la instalación de los dos programas que vamos a utilizar y adjunta capturas del resultado. (Acrylic WiFi Home y WiFi Analyzer)
+Realiza la instalación de los dos programas que vamos a utilizar y adjunta capturas del resultado. **(Acrylic WiFi Home y WiFi Analyzer)
 
     1. Abre WiFi Analyzer y adjunta una captura en la que se observe los datos de tu red y la intensidad de la señal recibida.
     2. Indica en Acrylic WiFi Home si tu red tiene interferencias por otra red y adjunta una captura del resultado.
