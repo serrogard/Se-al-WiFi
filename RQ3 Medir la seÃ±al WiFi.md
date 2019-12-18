@@ -15,6 +15,8 @@ Como vemos el programa es bastante gráfico en el primer bloque tenemos todos lo
 Si nos fijamos en la gráfica que teníamos en la página abajo a la derecha cada línea representa una red.
 
 En la parte derecha tenemos la intensidad de la señal recibida de cada red (RSSI) como podemos observar tiene “3” rangos este programa del -60 a 0 que nos indica que la señal es buena, cuanto más cerca del 0 mejor será la intensidad, otro rango va del -80 al -60 que es una señal débil y por último del -100 al -80 que es una señal mala, esta señal puede verse afectada por paredes,muebles,cortinas,pilares,columnas...etc
+
+
 ![IMAGEN ACRILYC WIFI HOME](./docs/1.PNG)
 ![IMAGEN ACRILYC WIFI HOME](./docs/2.PNG)
 
