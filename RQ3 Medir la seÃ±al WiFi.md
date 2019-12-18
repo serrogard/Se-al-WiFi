@@ -8,9 +8,9 @@ Vamos a usar dos programas distintos para realizar las comprobaciones, estos dos
 ## Acrylic WiFi Home
 
 Con este programa gratuito podemos visualizar la información WiFi en tiempo real, identificar problemas de canal, revisar la cobertura y mejorar el funcionamiento de la red WiFi.
-
-Como vemos el programa es bastante gráfico en el primer bloque tenemos todos los nombres de las redes escaneadas **(SSID)**, las MAC de cada una de las redes **(MAC Address)**, la señal de la intensidad recibida **(RSSI)**, el canal **(Chan)**, la velocidad máxima a la que pueden ir estas redes **(Max Speed)**, las herramientas de cifrado** (WEP,WPA,WPA2)**, conexión automática **(WPS)** y el vendedor **(Vendor)**.
 ![IMAGEN ACRILYC WIFI HOME](./docs/Captura.PNG)
+Como vemos el programa es bastante gráfico en el primer bloque tenemos todos los nombres de las redes escaneadas **(SSID)**, las MAC de cada una de las redes **(MAC Address)**, la señal de la intensidad recibida **(RSSI)**, el canal **(Chan)**, la velocidad máxima a la que pueden ir estas redes **(Max Speed)**, las herramientas de cifrado** (WEP,WPA,WPA2)**, conexión automática **(WPS)** y el vendedor **(Vendor)**.
+
 
 Si nos fijamos en la gráfica que teníamos en la página abajo a la derecha cada línea representa una red.
 
