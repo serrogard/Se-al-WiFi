@@ -36,3 +36,14 @@ Las razones de estas pueden ser las siguientes:
  
  
 Si nos damos cuenta hay 3 redes en en el canal 11 por lo estas estan generandose interferencias y una solución sería cambiar nuestra red de canal desde la página de nuestro router.
+
+### Factores que afectan a la señal Wi-Fi
+ 1. Obstáculos
+ 2. Interferencias Wireless
+ 3. Distancia de rangos entre los dispositivos
+ 4. Madera (Reduce la señal un 5%)
+ 5. Cristal (Reduce la señal un 25%)
+ 6. Ladrillo (Reduce la señal un 30%)
+ 7. Hormigón (Reduce la señal un 40%)
+ 8. Pladur (Reduce la señal un 50%)
+ 
