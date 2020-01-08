@@ -29,3 +29,12 @@ Como vemos tenemos los canales de las redes 2.4GHz que son 14 canales (en Españ
 ![IMAGEN ACRILYC WIFI HOME](./docs/interferencias.PNG)
 También vemos que tenemos las redes con un ancho de banda de 5GHz donde tenemos disponibles en España el uso de los canales del 36-64 y 100-140, como en el resto de Europa
 ![IMAGEN ACRILYC WIFI HOME](./docs/4.PNG)
+### Interferencias
+En las redes Wi-Fi nos podemos encontrar con interferencias que presentan demoras de conexión, velocidades de red lentas, mala señal...etc
+Las razones de estas pueden ser las siguientes:
+ Obstáculos como paredes, pisos...
+ Otros aparatos inalámbricos
+ Electrodomésticos como el microondas
+ Otras redes Wi-Fi en el mismo canal
+ Para saber si estamos en el mismo canal que otra red nos deberemos fijar en lo siguiente:
+ ![IMAGEN ACRILYC WIFI HOME](./docs/atope.PNG)
