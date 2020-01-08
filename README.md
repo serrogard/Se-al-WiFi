@@ -25,5 +25,6 @@ En la parte derecha tenemos la intensidad de la señal recibida de cada red (RSS
 Este programa tiene una opción avanzada para ver la gráfica de los canales, y el ancho de banda de los canales.
 ![IMAGEN ACRILYC WIFI HOME](./docs/avanzado.PNG)
 
-Como vemos tenemos los canales de las redes 2.4GHz que son 14 canales y como vemos tenemos 3 redes que están en el mismo canal que es el 11 por lo que tienen interferencias y la conexión de la red va a disminuir por eso si fuera nuestra red sería mejor cambiarlo de canal para que no tengamos interferencias y la conexión nos fuera mejor.
+Como vemos tenemos los canales de las redes 2.4GHz que son 14 canales (en España solo podemos usar hasta el 13, ya que el 14 solo se puede utilizar en Japón) y como vemos tenemos 3 redes que están en el mismo canal que es el 11 por lo que tienen interferencias y la conexión de la red va a disminuir por eso si fuera nuestra red sería mejor cambiarlo de canal para que no tengamos interferencias y la conexión nos fuera mejor.
 ![IMAGEN ACRILYC WIFI HOME](./docs/interferencias.PNG)
+También vemos que tenemos las redes con un ancho de banda de 5GHz donde tenemos disponibles en España el uso de los canales del 36-64 y 100-140, como en el resto de Europa
