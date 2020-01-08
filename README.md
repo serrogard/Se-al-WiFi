@@ -39,4 +39,5 @@ Las razones de estas pueden ser las siguientes:
  Para saber si estamos en el mismo canal que otra red nos deberemos fijar en lo siguiente:
  ![IMAGEN ACRILYC WIFI HOME](./docs/atope.PNG)
  
- Si nos damos cuenta hay 3 redes en en el canal 11 por lo estas estan generandose interferencias y una solución sería cambiar nuestra red de canal desde la página de nuestro router.
+ 
+Si nos damos cuenta hay 3 redes en en el canal 11 por lo estas estan generandose interferencias y una solución sería cambiar nuestra red de canal desde la página de nuestro router.
