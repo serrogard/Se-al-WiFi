@@ -8,4 +8,6 @@ a probar diversas cosas para ver si se produce algún cambio en la señal o hay 
 
 2. Dirígete fuera de esa habitación donde esta situado el router y cierra la puerta, ahora vuelve a repetir el proceso anterior, recuerda observar si encuentras alguna interferencia nueva a medida que vas moviéndote por la casa.
 
-3. 
+3. Prueba la cobertura desde un punto intermedio de la casa y observa que señal recibes y si encuentras interferencias
+
+4. Prueba lo anterior pero ahora dirígete a la zona más alejada del router en la casa.
